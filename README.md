@@ -5,7 +5,7 @@ toward AI that becomes companies. A single-page experience built as a study in *
 chess as a design language for strategy and patience, and the poise of a premium investment
 firm for how value compounds over time.
 
-**Live site:** _add your Netlify URL here after connecting the repo_
+**Live site:** https://prajwal-kulk.netlify.app/
 
 ## Highlights
 
